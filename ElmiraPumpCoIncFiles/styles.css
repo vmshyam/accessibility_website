@@ -104,3 +104,11 @@ div.wpcf7 input[type="file"] {
 div.wpcf7 input[type="file"]:disabled {
 	cursor: default;
 }
+
+.color-me{
+		font-size: 18px;
+}
+
+.color-button{
+	color: #4295f4;
+}
