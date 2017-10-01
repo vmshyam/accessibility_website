@@ -26,11 +26,11 @@ Added 'ALT' attribute tag
 - Line 545, column 47, img element, SRC = "https://elmirapump.com/wp-content/uploads/2016/08/Bell-Fitler-Panel-Outside.jpg"
 
 Added 'NOSCRIPT' tags
-<xmp>
+```html
     <noscript>
       <p>This page requires a JavaScript-enabled Broswer</p>
     </noscript>
-</xmp>
+```
 Added 'ALT' for INPUT tag
     <!-- <input id="search2" type="submit" class="search-submit" value="" alt="Submit Search"> -->
     <!-- <input id="search1" alt="Search Field" type="search" class="search-field" value=""> -->
