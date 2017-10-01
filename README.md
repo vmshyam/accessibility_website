@@ -82,4 +82,4 @@
   </nav>
 ```
 
-- Update CSS and Bootstrap layouts to make website more Responsive
+- Updated CSS and Bootstrap layouts to make website more Responsive
