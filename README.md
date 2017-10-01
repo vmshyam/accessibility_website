@@ -31,16 +31,51 @@ Added 'NOSCRIPT' tags
       <p>This page requires a JavaScript-enabled Broswer</p>
     </noscript>
 ```
+
 Added 'ALT' for INPUT tag
-    <!-- <input id="search2" type="submit" class="search-submit" value="" alt="Submit Search"> -->
-    <!-- <input id="search1" alt="Search Field" type="search" class="search-field" value=""> -->
+```html
+    <input id="search2" type="submit" class="search-submit" value="" alt="Submit Search">
+    <input id="search1" alt="Search Field" type="search" class="search-field" value="">
+```
 
 Replaced 'PLACEHOLDER' for INPUT tag
-    <!-- <input id="search1" alt="Search Field" type="search" class="search-field" value=""> -->
+```html
+    <input id="search1" alt="Search Field" type="search" class="search-field" value="">
+```
 
 Added BOOTSTRAP functionalities
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+```html
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+```
 
 Added a Responsive Navigation Layout
+```html
+  <nav class="navbar navbar-inverse bg-inverse navbar-toggleable-md color-me">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand active">Elmira Pump Co Inc.</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="https://elmirapump.com/">Home</a></li>
+        <li><a href="https://elmirapump.com/index.php/about-us/">About Us</a></li>
+        <li><a href="https://elmirapump.com/index.php/cart/">Cart</a></li>
+        <li><a href="https://elmirapump.com/index.php/cart/">Checkout</a></li>
+  			<li><a href="https://elmirapump.com/index.php/contact/">Contact Us</a></li>
+  			<li><a href="https://elmirapump.com/index.php/sample-page/">Custom Project</a></li>
+  			<li><a href="https://elmirapump.com/index.php/elmira-pump-shop-login/">Elmira Pump Shop Login</a></li>
+  			<li><a href="https://elmirapump.com/index.php/my-account/">My Account</a></li>
+  			<li><a href="https://elmirapump.com/index.php/shop/">Shop</a></li>
+  			<li><a href="https://elmirapump.com/index.php/terms-conditions/">Terms &amp; Conditions</a></li>
+  			<li><a href="https://elmirapump.com/index.php/shop-2/">Top Brands</a></li>
+  			<li>
+  				<form class="form-inline">
+  					<input class="form-control mr-sm-2" type="text" alt="search">
+  					<button class="btn btn-outline-success my-2 my-sm-0 color-button" type="submit">Search</button>
+  				</form>
+  			<li>
+  		</ul>
+  	</div>
+  </nav>
+```
