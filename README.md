@@ -42,8 +42,9 @@ Added BOOTSTRAP functionalities
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 
-Added a Responsive Navigation background
-    <!-- <nav class="navbar navbar-inverse bg-inverse navbar-toggleable-md color-me">
+Added a Responsive Navigation Layout
+<p>
+    <nav class="navbar navbar-inverse bg-inverse navbar-toggleable-md color-me">
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="navbar-brand active">Elmira Pump Co Inc.</a>
@@ -68,4 +69,5 @@ Added a Responsive Navigation background
     			<li>
     		</ul>
     	</div>
-    </nav> -->
+    </nav>
+</p>
