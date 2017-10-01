@@ -1,4 +1,4 @@
-Completed Accessibility Changes:
+<h1> Completed Accessibility Changes</h1>
 
 - Added 'ALT' attribute tag
 ```html
