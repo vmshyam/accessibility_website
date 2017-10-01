@@ -26,19 +26,24 @@ Added 'ALT' attribute tag
 - Line 545, column 47, img element, SRC = "https://elmirapump.com/wp-content/uploads/2016/08/Bell-Fitler-Panel-Outside.jpg"
 
 Added 'NOSCRIPT' tags
-    <noscript>
+    <!-- <noscript>
       <p>This page requires a JavaScript-enabled Broswer</p>
-    </noscript>
+    </noscript> -->
 
 Added 'ALT' for INPUT tag
-- <input id="search2" type="submit" class="search-submit" value="" alt="Submit Search">
-- <input id="search1" alt="Search Field" type="search" class="search-field" value="">
+    <!-- <input id="search2" type="submit" class="search-submit" value="" alt="Submit Search"> -->
+    <!-- <input id="search1" alt="Search Field" type="search" class="search-field" value=""> -->
 
 Replaced 'PLACEHOLDER' for INPUT tag
-- <input id="search1" alt="Search Field" type="search" class="search-field" value="">
+    <!-- <input id="search1" alt="Search Field" type="search" class="search-field" value=""> -->
+
+Added BOOTSTRAP functionalities
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 
 Added a Responsive Navigation background
-    <nav class="navbar navbar-inverse bg-inverse navbar-toggleable-md color-me">
+    <!-- <nav class="navbar navbar-inverse bg-inverse navbar-toggleable-md color-me">
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="navbar-brand active">Elmira Pump Co Inc.</a>
@@ -63,4 +68,4 @@ Added a Responsive Navigation background
     			<li>
     		</ul>
     	</div>
-    </nav>
+    </nav> -->
